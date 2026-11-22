@@ -494,4 +494,3 @@ dependencies:
   - zstd=1.5.6
   - pip:
       - pip==25.3
-prefix: C:\Users\dennis.dannecker\AppData\Local\anaconda3\envs\trap_column_test
