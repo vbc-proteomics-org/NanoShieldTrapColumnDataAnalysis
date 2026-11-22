@@ -2,7 +2,13 @@
 
 This repository features the notebooks used for data analysis and post processing for the NanoShield trap column studies.
 
-Preprint available: "Trapping more seeing more, benchmarking a new trap column for low-input proteomics", [https://doi.org/10.64898/2026.11.12.766175](https://doi.org/10.64898/2026.11.12.766175).
+## Preprint available
+
+### "Trapping more seeing more, benchmarking a new trap column for low-input proteomics"
+
+Dennis Dannecker, Todd Blackburn, Liang Chen, Jarrod J. Sandow, Karl Mechtler, Manuel Matzinger
+
+[https://doi.org/10.64898/2026.11.12.766175](https://doi.org/10.64898/2026.11.12.766175)
 
 ## Notes
 
