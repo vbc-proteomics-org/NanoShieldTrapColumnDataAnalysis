@@ -14,6 +14,7 @@ Dennis Dannecker, Todd Blackburn, Liang Chen, Jarrod J. Sandow, Karl Mechtler, M
 
 - Each post processing analysis has its dedicated Jupyter Notebook.
 - Each notebook exports `.csv` files with data for external visualization.
+- Place notebooks (.ipynb) and python files (.py) in the same directory.
 
 ## How to run respective Jupyter Notebooks (recommended)
 
